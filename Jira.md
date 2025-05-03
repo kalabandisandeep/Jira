@@ -11,7 +11,7 @@ JIRA is a project management tool developed by Atlassian, widely used for issue 
 
 ✅ Why companies use it:
 
-To plan, track, and manage software development work.
+To plan, track, and manage software development work progress.
 
 To improve visibility of tasks, progress, and priorities across teams.
 
