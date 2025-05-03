@@ -1,4 +1,5 @@
 📌 JIRA and Agile Cheat Sheet
+
 1️⃣ What exactly is JIRA? Why do we have it?
 JIRA is a project management tool developed by Atlassian, widely used for issue tracking, bug tracking, and managing Agile projects.
 
