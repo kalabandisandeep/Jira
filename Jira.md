@@ -1,5 +1,5 @@
 
-📌 JIRA and Agile Cheat Sheet
+📌 𝐉𝐈𝐑𝐀 𝐚𝐧𝐝 𝐀𝐠𝐢𝐥𝐞 𝐂𝐡𝐞𝐚𝐭 𝐒𝐡𝐞𝐞𝐭
 
 
 
